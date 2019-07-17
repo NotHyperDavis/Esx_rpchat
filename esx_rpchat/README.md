@@ -1,7 +1,7 @@
 # esx_rpchat
 
 #### Description
-This is a proximity chat script. With a few commands such as Twitter, OOC and Local Me
+This is a proximity chat script. With a few commands such as Twitter, OOC, DO, ME, ANON and LOUDSPEAKER with /alt
 
 ## Download & Installation
 
